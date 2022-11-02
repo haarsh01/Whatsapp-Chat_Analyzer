@@ -1,4 +1,3 @@
-# whatsapp-chat-analysis
+# whatsapp-chat-analyzer
 A streamlit app to analyze your whatsapp chats
-
-Demo Link: https://wca-campusx.herokuapp.com/
+This web app provides a thorough analysis of the WhatsApp group chats. It preprocesses the data, deletes the uploaded file, and creates the statistics report using the conversations text file produced by WhatsApp export (without media).
